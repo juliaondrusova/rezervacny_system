@@ -1,0 +1,285 @@
+{
+    "rooms": [
+        {
+            "dates": [
+                "2023,17,12"
+            ],
+            "price": 49.59,
+            "roomNumber": 10,
+            "typeOfRoom": "Dvojlozkova"
+        },
+        {
+            "dates": [
+                "2000,8,1",
+                "2003,8,1"
+            ],
+            "price": 20,
+            "roomNumber": 11,
+            "typeOfRoom": "Jednolozkova"
+        },
+        {
+            "dates": [
+                "2024,15,8",
+                "2024,22,8"
+            ],
+            "price": 72.99,
+            "roomNumber": 45,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2024,30,1",
+                "2024,5,2"
+            ],
+            "price": 81.99,
+            "roomNumber": 13,
+            "typeOfRoom": "Apartman"
+        },
+        {
+            "dates": [
+                "2024,1,5",
+                "2024,4,12"
+            ],
+            "price": 38.59,
+            "roomNumber": 14,
+            "typeOfRoom": "Jednolozkova"
+        },
+        {
+            "dates": [
+                "2023,15,12",
+                "2023,16,12",
+                "2023,17,12",
+                "2023,15,12",
+                "2023,15,12",
+                "2023,15,12"
+            ],
+            "price": 49.59,
+            "roomNumber": 15,
+            "typeOfRoom": "Dvojlozkova"
+        },
+        {
+            "dates": [
+                "2024,18,2",
+                "2024,22,2"
+            ],
+            "price": 38.59,
+            "roomNumber": 16,
+            "typeOfRoom": "Jednolozkova"
+        },
+        {
+            "dates": [
+                "2024,25,2",
+                "2024,2,3"
+            ],
+            "price": 49.59,
+            "roomNumber": 17,
+            "typeOfRoom": "Dvojlozkova"
+        },
+        {
+            "dates": [
+                "2024,1,3",
+                "2024,8,3"
+            ],
+            "price": 59.59,
+            "roomNumber": 18,
+            "typeOfRoom": "Trojlozkova"
+        },
+        {
+            "dates": [
+                "2024,20,8",
+                "2024,25,8"
+            ],
+            "price": 72.99,
+            "roomNumber": 47,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2023,21,12",
+                "2023,21,12",
+                "2023,22,12",
+                "2023,23,12",
+                "2023,24,12"
+            ],
+            "price": 81.99,
+            "roomNumber": 20,
+            "typeOfRoom": "Apartman"
+        },
+        {
+            "dates": [
+                "2023,16,12",
+                "2023,16,12",
+                "2023,17,12",
+                "2023,16,12",
+                "2023,17,12"
+            ],
+            "price": 38.59,
+            "roomNumber": 21,
+            "typeOfRoom": "Jednolozkova"
+        },
+        {
+            "dates": [
+                "2024,25,3",
+                "2024,1,4"
+            ],
+            "price": 49.59,
+            "roomNumber": 22,
+            "typeOfRoom": "Dvojlozkova"
+        },
+        {
+            "dates": [
+                "2024,5,4",
+                "2024,12,4"
+            ],
+            "price": 59.59,
+            "roomNumber": 23,
+            "typeOfRoom": "Trojlozkova"
+        },
+        {
+            "dates": [
+                "2024,15,4",
+                "2024,20,4"
+            ],
+            "price": 38.59,
+            "roomNumber": 24,
+            "typeOfRoom": "Jednolozkova"
+        },
+        {
+            "dates": [
+                "2024,18,4",
+                "2024,25,4"
+            ],
+            "price": 49.59,
+            "roomNumber": 25,
+            "typeOfRoom": "Dvojlozkova"
+        },
+        {
+            "dates": [
+                "2024,1,5",
+                "2024,7,5"
+            ],
+            "price": 78.59,
+            "roomNumber": 26,
+            "typeOfRoom": "Rodinna"
+        },
+        {
+            "dates": [
+                "2024,28,8",
+                "2024,5,9"
+            ],
+            "price": 72.99,
+            "roomNumber": 49,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2024,5,5",
+                "2024,12,5"
+            ],
+            "price": 63.99,
+            "roomNumber": 27,
+            "typeOfRoom": "Stvorlozkova"
+        },
+        {
+            "dates": [
+                "2024,10,5",
+                "2024,15,5"
+            ],
+            "price": 78.59,
+            "roomNumber": 29,
+            "typeOfRoom": "Rodinna"
+        },
+        {
+            "dates": [
+                "2024,1,9",
+                "2024,8,9"
+            ],
+            "price": 72.99,
+            "roomNumber": 51,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2024,6,2",
+                "2024,1,12"
+            ],
+            "price": 78.59,
+            "roomNumber": 31,
+            "typeOfRoom": "Rodinna"
+        },
+        {
+            "dates": [
+                "2024,5,10",
+                "2024,12,10"
+            ],
+            "price": 72.99,
+            "roomNumber": 59,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2024,28,5",
+                "2024,2,6"
+            ],
+            "price": 78.59,
+            "roomNumber": 33,
+            "typeOfRoom": "Rodinna"
+        },
+        {
+            "dates": [
+                "2024,15,3",
+                "2024,15,3",
+                "2024,15,3"
+            ],
+            "price": 63.99,
+            "roomNumber": 34,
+            "typeOfRoom": "Stvorlozkova"
+        },
+        {
+            "dates": [
+                "2024,10,9",
+                "2024,15,9"
+            ],
+            "price": 72.99,
+            "roomNumber": 53,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2024,16,3",
+                "2024,16,3"
+            ],
+            "price": 63.99,
+            "roomNumber": 36,
+            "typeOfRoom": "Stvorlozkova"
+        },
+        {
+            "dates": [
+                "2024,5,6",
+                "2024,12,6"
+            ],
+            "price": 78.59,
+            "roomNumber": 37,
+            "typeOfRoom": "Rodinna"
+        },
+        {
+            "dates": [
+                "2024,28,9",
+                "2024,2,10"
+            ],
+            "price": 72.99,
+            "roomNumber": 57,
+            "typeOfRoom": "Suite"
+        },
+        {
+            "dates": [
+                "2000,1,1",
+                "2000,5,1",
+                "2007,5,1"
+            ],
+            "price": 45,
+            "roomNumber": 3,
+            "typeOfRoom": "Trojlozkova"
+        }
+    ]
+}

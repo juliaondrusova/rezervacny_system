@@ -1,0 +1,72 @@
+{
+    "reservations": [
+        {
+            "dates": [
+                "2024,15,03",
+                "2024,15,03",
+                "2024,15,03"
+            ],
+            "reservationNumber": 1,
+            "roomNumber": 34,
+            "status": 3,
+            "totalPrice": 191.97,
+            "userName": "adam_horak"
+        },
+        {
+            "dates": [
+                "2024,16,03",
+                "2024,16,03"
+            ],
+            "reservationNumber": 2,
+            "roomNumber": 36,
+            "status": 2,
+            "totalPrice": 127.98,
+            "userName": "adam_horak"
+        },
+        {
+            "dates": [
+                "2024,16,03",
+                "2024,16,03"
+            ],
+            "reservationNumber": 3,
+            "roomNumber": 23,
+            "status": 1,
+            "totalPrice": 119.18,
+            "userName": "adam_horak"
+        },
+        {
+            "dates": [
+                "2024,15,03",
+                "2024,15,03",
+                "2024,15,03"
+            ],
+            "reservationNumber": 1,
+            "roomNumber": 34,
+            "status": 3,
+            "totalPrice": 191.97,
+            "userName": "adam_horak"
+        },
+        {
+            "dates": [
+                "2024,16,03",
+                "2024,16,03"
+            ],
+            "reservationNumber": 2,
+            "roomNumber": 36,
+            "status": 2,
+            "totalPrice": 127.98,
+            "userName": "adam_horak"
+        },
+        {
+            "dates": [
+                "2024,16,03",
+                "2024,16,03"
+            ],
+            "reservationNumber": 3,
+            "roomNumber": 23,
+            "status": 1,
+            "totalPrice": 119.18,
+            "userName": "adam_horak"
+        }
+    ]
+}

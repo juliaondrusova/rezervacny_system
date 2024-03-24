@@ -1,0 +1,259 @@
+{
+    "employees": [
+        {
+            "address": "Bratislava 478",
+            "first_name": "Adam",
+            "last_name": "Horak",
+            "password": "heslo123",
+            "role": "Host",
+            "username": "adam_horak"
+        },
+        {
+            "address": "Kosice 123",
+            "first_name": "Eva",
+            "last_name": "Novakova",
+            "password": "hesloEva789",
+            "role": "Host",
+            "username": "eva_novakova"
+        },
+        {
+            "address": "Presov 654",
+            "first_name": "Veronika",
+            "last_name": "Mareckova",
+            "password": "hesloVeronika852",
+            "role": "Host",
+            "username": "veronika_mareckova"
+        },
+        {
+            "address": "Nitra 987",
+            "first_name": "Lenka",
+            "last_name": "Kralova",
+            "password": "hesloLenka123",
+            "role": "Host",
+            "username": "lenka_kralova"
+        },
+        {
+            "address": "Poprad 741",
+            "first_name": "Andrej",
+            "last_name": "Simko",
+            "password": "hesloAndrej123",
+            "role": "Host",
+            "username": "andrej_simko"
+        },
+        {
+            "address": "Zilina 123",
+            "first_name": "Jana",
+            "last_name": "Novotna",
+            "password": "hesloJana456",
+            "role": "Host",
+            "username": "jana_novotna"
+        },
+        {
+            "address": "Kosice 456",
+            "first_name": "Peter",
+            "last_name": "Kral",
+            "password": "hesloPeter852",
+            "role": "Host",
+            "username": "peter_kral"
+        },
+        {
+            "address": "Bratislava 789",
+            "first_name": "Elena",
+            "last_name": "Kovacova",
+            "password": "hesloElena123",
+            "role": "Host",
+            "username": "elena_kovacova"
+        },
+        {
+            "address": "Nitra 987",
+            "first_name": "Miroslav",
+            "last_name": "Hruska",
+            "password": "hesloMiro987",
+            "role": "Host",
+            "username": "miroslav_hruska"
+        },
+        {
+            "address": "Poprad 741",
+            "first_name": "Zuzana",
+            "last_name": "Simkova",
+            "password": "hesloZuzana741",
+            "role": "Host",
+            "username": "zuzana_simkova"
+        },
+        {
+            "address": "Martin 458, 12",
+            "company_name": "Turcan company",
+            "first_name": "Zdeno",
+            "is_vat_payer": true,
+            "last_name": "Holy",
+            "password": "mojeheslo456",
+            "role": "Firma",
+            "username": "zdeno_holy"
+        },
+        {
+            "address": "Banska Bystrica 789, 45",
+            "company_name": "Tech Solutions",
+            "first_name": "Peter",
+            "is_vat_payer": false,
+            "last_name": "Vesely",
+            "password": "hesloPeter123",
+            "role": "Firma",
+            "username": "peter_vesely"
+        },
+        {
+            "address": "Zilina 321, 78",
+            "company_name": "SoftTech",
+            "first_name": "Marek",
+            "is_vat_payer": true,
+            "last_name": "Ondrus",
+            "password": "hesloMarek789",
+            "role": "Firma",
+            "username": "marek_ondrus"
+        },
+        {
+            "address": "Trnava 456, 23",
+            "company_name": "InnoSoft",
+            "first_name": "Jozef",
+            "is_vat_payer": false,
+            "last_name": "Kovac",
+            "password": "hesloJozef456",
+            "role": "Firma",
+            "username": "jozef_kovac"
+        },
+        {
+            "address": "Ziar nad Hronom 852, 56",
+            "company_name": "DataHub",
+            "first_name": "Zuzana",
+            "is_vat_payer": true,
+            "last_name": "Dubova",
+            "password": "hesloZuzana456",
+            "role": "Firma",
+            "username": "zuzana_dubova"
+        },
+        {
+            "address": "123 Main Street, City",
+            "company_name": "XYZ Corporation",
+            "first_name": "John",
+            "is_vat_payer": true,
+            "last_name": "Doe",
+            "password": "hesloJohn456",
+            "role": "Firma",
+            "username": "john_doe"
+        },
+        {
+            "address": "456 Oak Avenue, Town",
+            "company_name": "Innovate Ltd.",
+            "first_name": "Alice",
+            "is_vat_payer": false,
+            "last_name": "Smith",
+            "password": "hesloAlice789",
+            "role": "Firma",
+            "username": "alice_smith"
+        },
+        {
+            "address": "789 Maple Drive, Village",
+            "company_name": "Data Systems Inc.",
+            "first_name": "David",
+            "is_vat_payer": true,
+            "last_name": "Johnson",
+            "password": "hesloDavid852",
+            "role": "Firma",
+            "username": "david_johnson"
+        },
+        {
+            "address": "101 Pine Lane, Hamlet",
+            "company_name": "Global Services",
+            "first_name": "Samantha",
+            "is_vat_payer": false,
+            "last_name": "Williams",
+            "password": "hesloSamantha123",
+            "role": "Firma",
+            "username": "samantha_williams"
+        },
+        {
+            "address": "202 Cedar Road, Borough",
+            "company_name": "InfoTech Solutions",
+            "first_name": "Michael",
+            "is_vat_payer": true,
+            "last_name": "Brown",
+            "password": "hesloMichael789",
+            "role": "Firma",
+            "username": "michael_brown"
+        },
+        {
+            "password": "adminHeslo789",
+            "role": "admin",
+            "username": "martin_majersky"
+        },
+        {
+            "password": "adminKatka789",
+            "role": "admin",
+            "username": "katarina_hruskova"
+        },
+        {
+            "password": "adminSilvia456",
+            "role": "admin",
+            "username": "silvia_hlinkova"
+        },
+        {
+            "password": "adminMiro789",
+            "role": "admin",
+            "username": "miroslav_urban"
+        },
+        {
+            "password": "adminPatrik789",
+            "role": "admin",
+            "username": "patrik_kratochvil"
+        },
+        {
+            "password": "recepcia456",
+            "role": "recepcny",
+            "username": "maria_ledicka"
+        },
+        {
+            "password": "recepciaTom456",
+            "role": "recepcny",
+            "username": "tomas_sevcik"
+        },
+        {
+            "password": "hesloJuraj987",
+            "role": "recepcny",
+            "username": "juraj_liptak"
+        },
+        {
+            "password": "hesloIvana852",
+            "role": "recepcny",
+            "username": "ivana_petrovicova"
+        },
+        {
+            "password": "hesloElena852",
+            "role": "recepcny",
+            "username": "elena_husarova"
+        },
+        {
+            "password": "recepciaJana852",
+            "role": "recepcny",
+            "username": "jana_novotna"
+        },
+        {
+            "password": "recepciaPeter456",
+            "role": "recepcny",
+            "username": "peter_kral"
+        },
+        {
+            "password": "recepciaElena789",
+            "role": "recepcny",
+            "username": "elena_kovacova"
+        },
+        {
+            "password": "recepciaMiro852",
+            "role": "recepcny",
+            "username": "miroslav_hruska"
+        },
+        {
+            "password": "recepciaZuzana741",
+            "role": "recepcny",
+            "username": "zuzana_simkova"
+        }
+    ]
+}
